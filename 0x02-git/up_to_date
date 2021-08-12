@@ -1,0 +1,7 @@
+git init
+git add .
+git remote add origin https://github.com/eyosi19/alx-pre_course
+git branch -M main
+git commit -m "My First commit"
+git push -u origin main
+git pull
